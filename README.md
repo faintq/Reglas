@@ -13,3 +13,5 @@ de la instancia a la hora señalada.
 -Toda la ayuda brindada a la guild se toma en cuenta (materiales, gold, ayudar en carrys, etc.)
 -Buscamos Personas que constantemente investigen sobre su clase, generando una permanente mejora de sus habilidades, la puntualidad es un elemento importante al momento de raidear, al igual como la actitud en raid.
 -Nos enfocamos en el respeto ya sea al momento de escuchar y/o de ser escuchado.
+-Si tienes alguna sugerencia o pregunta puedes dejarla aquí o hablar con algun oficial en el juego.
+-Saludos y gracias por leer!
