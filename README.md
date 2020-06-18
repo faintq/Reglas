@@ -2,7 +2,7 @@
 -El horario de raid es de lunes a jueves con 3 horas de raideo de 9 ST A 12 ST, el horario puede cambiar dependiendo del horario de verano. NOTA: El horario está sujeto a cambios.
 -ES muy importante estar online 15 minutos antes de la hora establecida. Ya que se empiezan a enviar los invites y todo el core debe estar dentro 
 de la instancia a la hora señalada.
--Todo el core de raid debe estar CONECTADO a DICORD. (Sin excepción) 
+-Todo el core de raid debe estar CONECTADO a DISCORD. (Sin excepción) 
 -La primera semana de Mythic raidearemos temprano.
 -Si bajas tu desempeño serás demoteado al siguiente rango y perderás privilegios (de raider a trial) y así hasta ser demoteado a casual. 
 -Asistir al menos 95% del raid, y en caso de no poder asistir es muy importante avisar.
